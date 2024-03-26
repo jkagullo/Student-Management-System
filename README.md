@@ -2,10 +2,10 @@
 A coding practice session on python based student management system using pyodbc and microsoft access.
 # How to Use?
 1. Install necessary python packages using pip
-1.1 Pyyodbc 
-1.2 Tkinter
-2. Setup a Microsoft Access Database.
-2.1 To setup, change the file path of your ms access database here: conn_str = r'DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=D:(input path here);'
+2. Pyyodbc 
+3. Tkinter
+4. Setup a Microsoft Access Database.
+5. To setup, change the file path of your ms access database here: conn_str = r'DRIVER={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=D:(input path here);'
 
 # To Do:
 1. Admin Access Login
